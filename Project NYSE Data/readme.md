@@ -74,7 +74,7 @@ I cleaned the data to only show the information related to companies in the ener
 ![f1](https://user-images.githubusercontent.com/87584380/126052154-683400c9-29fa-4ef7-82ce-7757737db8d4.png)
 ![f2](https://user-images.githubusercontent.com/87584380/126052157-8d217e3e-a621-4a21-b71d-547f977f082a.png)
 
-#Download here
+# Download here [Excel File](https://github.com/Adeleke1/PortfolioProjects/tree/main/Project%20NYSE%20Data/Files%20Used). 
 
 
 
