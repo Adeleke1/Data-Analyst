@@ -65,7 +65,7 @@ Once you have finished analyzing the data, create a presentation that shares the
 # Slide 2
 ![v2](https://user-images.githubusercontent.com/87584380/126051953-c0bf7928-779e-47bd-b1e2-4f5893333031.png)
 
-#Dynamic P&L Statement
+# Dynamic P&L Statement
 I cleaned the data to only show the information related to companies in the energy sector. In the picture below, you can see its a dynamic PNL statement where the values for the cost, profit and revenue changes for each company.
 
 ![pnl](https://user-images.githubusercontent.com/87584380/126052052-94f2dddd-5222-46a4-8444-9cd870f34851.png)
