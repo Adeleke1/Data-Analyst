@@ -28,7 +28,7 @@ From this illustration, the best time to travel is September due to the minimal 
 
 ![flight3](https://user-images.githubusercontent.com/87584380/126174588-90f11bcd-dd46-4e6e-a11b-e203490f703a.png)
 
-Texas had the highest amount of flight cancellations among the states in America reaching a sum amount og 668 cancellations. This shows that it is not advisable to rely on an urgent flight to Texas due to the high flight cancellation rate. On the other hand, Montana rarely experience flight cancellations as the sum amount of cancelled flight amount to just 3.
+Texas had the highest amount of flight cancellations among the states in America reaching a sum amount of 668 cancellations. This shows that it is not advisable to rely on an urgent flight to Texas due to the high flight cancellation rate. On the other hand, Montana rarely experience flight cancellations as the sum amount of cancelled flight amount to just 3.
 
 **Insight 4: What are the reasons for flight cancellations by airlines at various airport?**
 
@@ -38,6 +38,7 @@ Across all airport in America, Southwest airlines experience the most amount of 
 Hawaiian Airlines experienced the least cancellation of flight summing upto 8. The only reason for flight cancellation for this airline came from Airline/Carrier.
 
 You can check the dashboard where I have put together these different visualization to see why flight delay and cancellation occurs in each state, airports and airline.
+Click here to view dashboard in [Tableau public gallery](https://public.tableau.com/app/profile/adeniyi.adeleke/viz/DataVisualizationofFlightDelayandCancellations/Dashboard1?publish=yes).
 
 
 
