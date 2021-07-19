@@ -41,6 +41,6 @@ You can check the dashboard where I have put together these different visualizat
 
 Click here to view dashboard in [Tableau public gallery](https://public.tableau.com/app/profile/adeniyi.adeleke/viz/DataVisualizationofFlightDelayandCancellations/Dashboard1?publish=yes).
 
-The dataset used can be downloaded [here](https://github.com/Adeleke1/PortfolioProjects/tree/main/Project%20Build%20Data%20Dashboard/misc)
+The dataset used can be downloaded [here](https://github.com/Adeleke1/PortfolioProjects/tree/main/Project%20Build%20Data%20Dashboard/misc).
 
 
