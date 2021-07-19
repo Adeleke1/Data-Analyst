@@ -39,7 +39,8 @@ Hawaiian Airlines experienced the least cancellation of flight summing upto 8. T
 
 You can check the dashboard where I have put together these different visualization to see why flight delay and cancellation occurs in each state, airports and airline.
 
-# Click here to view dashboard in [Tableau public gallery](https://public.tableau.com/app/profile/adeniyi.adeleke/viz/DataVisualizationofFlightDelayandCancellations/Dashboard1?publish=yes).
+Click here to view dashboard in [Tableau public gallery](https://public.tableau.com/app/profile/adeniyi.adeleke/viz/DataVisualizationofFlightDelayandCancellations/Dashboard1?publish=yes).
 
+The dataset used can be downloaded [here](https://github.com/Adeleke1/PortfolioProjects/tree/main/Project%20Build%20Data%20Dashboard/misc)
 
 
