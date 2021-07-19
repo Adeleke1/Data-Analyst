@@ -24,7 +24,7 @@ In this visualization, we can see the various reasons for flight delays. It is v
 
 From this illustration, the best time to travel is September due to the minimal average amount of departure delay averaging 4.8 minutes. The month of June proves to be quite a difficult time to travel as the departure delay averaged an amount of 15 minutes.
 
-**Insight 3: Which state in Ameruca does flight cancellation occur the most?**
+**Insight 3: Which state in America does flight cancellation occur the most?**
 
 ![flight3](https://user-images.githubusercontent.com/87584380/126174588-90f11bcd-dd46-4e6e-a11b-e203490f703a.png)
 
@@ -39,7 +39,7 @@ Hawaiian Airlines experienced the least cancellation of flight summing upto 8. T
 
 You can check the dashboard where I have put together these different visualization to see why flight delay and cancellation occurs in each state, airports and airline.
 
-Click here to view dashboard in [Tableau public gallery](https://public.tableau.com/app/profile/adeniyi.adeleke/viz/DataVisualizationofFlightDelayandCancellations/Dashboard1?publish=yes).
+****Click here to view dashboard in [Tableau public gallery](https://public.tableau.com/app/profile/adeniyi.adeleke/viz/DataVisualizationofFlightDelayandCancellations/Dashboard1?publish=yes).
 
 
 
