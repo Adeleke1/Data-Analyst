@@ -13,7 +13,7 @@ Due to this, I had some questions in mind which I believe will help to understan
 3. What state in America does flight cancellation occur the most?
 4. What are the reasons for flight cancellations by airlines at various airport?
 
-**Insight 1 What contribute mostly to flight delays?** 
+**Insight 1: What contribute mostly to flight delays?** 
 
 ![flight1](https://user-images.githubusercontent.com/87584380/126173331-1f1f1bba-69d7-4eed-ae39-b942e3afad6f.png)
 In this visualization, we can see the various reasons for flight delays. It is visible that late aircraft delay is the major reason why flight delay occurs. Also, the least contribution to delay came from delay due to security.
