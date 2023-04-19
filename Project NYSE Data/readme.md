@@ -70,7 +70,7 @@ I cleaned the data to only show the information related to companies in the ener
 
 ![pnl](https://user-images.githubusercontent.com/87584380/126052052-94f2dddd-5222-46a4-8444-9cd870f34851.png)
 
-# Dynamiic Financial Forecast with three scenarios
+# Dynamic Financial Forecast with three scenarios
 ![f1](https://user-images.githubusercontent.com/87584380/126052154-683400c9-29fa-4ef7-82ce-7757737db8d4.png)
 ![f2](https://user-images.githubusercontent.com/87584380/126052157-8d217e3e-a621-4a21-b71d-547f977f082a.png)
 
